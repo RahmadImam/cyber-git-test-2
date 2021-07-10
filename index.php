@@ -13,6 +13,10 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi fugiat impedit velit inventore, repellat rerum
         accusamus temporibus praesentium deserunt. Repudiandae dolorum magnam, distinctio dolores dicta quia doloribus
         vero veniam provident.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
